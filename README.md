@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Stefab
+- 👋 Hi, I’m Stefan
 - 👀 I’m interested in Coding, AI and Embedded Systems.
 - 🌱 I’m currently learning on AI Field
 - 💞️ I’m looking to collaborate on on any AI and Python Coding Topics and also want to learn to Languages and skills in computer science
